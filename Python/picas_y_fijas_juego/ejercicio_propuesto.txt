@@ -10,6 +10,7 @@ pero en una posición diferente a la del número del intento, y un dígito es un
 5.	Adicionalmente debe llevar un recuento de cuantos intentos ha realizado el jugador, hasta un máximo de doce intentos. 
 6.	En cada intento debe mostrar: número de intentos y el número de cifras de picas y fijas.
 
+
 Los mensajes de salida mostrarán lo siguiente al terminar los intentos:
 •	Si logra tener las 4 fijas con menos de dos intentos: «Excelente, eres un maestro estas fuera del alcance de los demás».
 •	Si logra tener las 4 fijas con menos de cuatro intentos: «Muy bueno, puedes ser un gran competidor».

@@ -21,7 +21,6 @@ Un dígito es una FIJA cuando está en el número CLAVE en la misma posición de
 print(reglasJuego)
 #print(Style.RESET_ALL + "Restablecer estilo")
 
-
 #variales
 numero_minimo = 1000
 numero_maximo = 9999
